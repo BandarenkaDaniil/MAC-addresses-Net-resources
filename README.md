@@ -1,3 +1,4 @@
-#**Computer Systems and Networks**
+# Computer Systems and Networks
 Laboratory Work #1
-Enumerate all available MAC addresses and net resources *using WinAPI*.
+
+Enumerate all available **MAC addresses** and **netresources** *using WinAPI*.
